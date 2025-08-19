@@ -1,0 +1,16 @@
+/* Base */
+
+/* Navbar */
+nav {
+    position: fixed;
+    top: 0;   
+    width: 100%;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 16px 32px;
+}
+nav ul{
+    list-style: none;
+}
